@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc0dfe08.css",
+    "main.js": "/static/js/main.41d10833.js",
+    "static/media/bulldogpub_murmansk.mp4": "/static/media/bulldogpub_murmansk.5256640546bdedfb603f.mp4",
+    "static/media/about_5.jpg": "/static/media/about_5.77f2c95ac7d395cd183a.jpg",
+    "static/media/about_3.jpg": "/static/media/about_3.134d7f87d375429fdbcd.jpg",
+    "static/media/about_4.jpg": "/static/media/about_4.1a5571bf5b5db804dece.jpg",
+    "static/media/about_1.jpg": "/static/media/about_1.030736a2ca1f20112b92.jpg",
+    "static/media/footer_bg.jpg": "/static/media/footer_bg.9bba9af1a193eed0dc71.jpg",
+    "static/media/about_6.jpg": "/static/media/about_6.05c04c6a9111773215a4.jpg",
+    "static/media/Roboto.ttf": "/static/media/Roboto.33c6cdbc694881567da1.ttf",
+    "static/media/menu.jpg": "/static/media/menu.239b65c52c46de6fd868.jpg",
+    "static/media/breakfast.jpg": "/static/media/breakfast.f0f22e19a69b0a1d1ff3.jpg",
+    "static/media/about_2.jpg": "/static/media/about_2.2a172ad8438b18e25fd8.jpg",
+    "static/media/alco.jpg": "/static/media/alco.f466d7c4d3dd12b0a37d.jpg",
+    "static/media/lunch.jpg": "/static/media/lunch.58dcd2c6b246d1f4b637.jpg",
+    "static/media/stocks.jpg": "/static/media/stocks.ac3b9e37abde5f658a05.jpg",
+    "static/media/beer.jpg": "/static/media/beer.6e27055e762599c03e28.jpg",
+    "static/media/aAlgeriusCaps.ttf": "/static/media/aAlgeriusCaps.639fe3ecc6a2a2f57bb8.ttf",
+    "../media/bulldog.svg": "/../media/bulldog.613fe48258fcc04c6b30147cd80daa06.svg",
+    "../media/lang.svg": "/../media/lang.48412d984f013e5dff96c293a9f95245.svg",
+    "static/media/vk.svg": "/static/media/vk.df30d4092bffac6fc283.svg",
+    "static/media/insta.svg": "/static/media/insta.2932db7e963d62c9e701.svg",
+    "static/media/phone.svg": "/static/media/phone.7e6681cdd57559e7175d.svg",
+    "static/media/mail.svg": "/static/media/mail.e234336138a77fc1360b.svg",
+    "static/media/location.svg": "/static/media/location.700a7a756282691ec920.svg",
+    "static/media/telegram.svg": "/static/media/telegram.3377df91c8a892021f5b.svg",
+    "../media/menu.svg": "/../media/menu.21c09d8043772c882446eb458fbd4347.svg",
+    "index.html": "/index.html",
+    "../media/star.svg": "/../media/star.a8663f2d6ceb800cdf937469cc7e1250.svg",
+    "main.fc0dfe08.css.map": "/static/css/main.fc0dfe08.css.map",
+    "main.41d10833.js.map": "/static/js/main.41d10833.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc0dfe08.css",
+    "static/js/main.41d10833.js"
+  ]
+}
