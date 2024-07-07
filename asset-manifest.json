@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.42425b7f.css",
-    "main.js": "/static/js/main.354a9ad8.js",
+    "main.css": "/static/css/main.f6f84fb9.css",
+    "main.js": "/static/js/main.3a2b5286.js",
     "static/media/bulldogpub_murmansk.mp4": "/static/media/bulldogpub_murmansk.5256640546bdedfb603f.mp4",
     "static/media/about_5.jpg": "/static/media/about_5.77f2c95ac7d395cd183a.jpg",
     "static/media/about_3.jpg": "/static/media/about_3.134d7f87d375429fdbcd.jpg",
@@ -18,7 +18,7 @@
     "static/media/stocks.jpg": "/static/media/stocks.ac3b9e37abde5f658a05.jpg",
     "static/media/beer.jpg": "/static/media/beer.6e27055e762599c03e28.jpg",
     "static/media/aAlgeriusCaps.ttf": "/static/media/aAlgeriusCaps.639fe3ecc6a2a2f57bb8.ttf",
-    "../media/bulldog.svg": "/../media/bulldog.613fe48258fcc04c6b30147cd80daa06.svg",
+    "../media/bulldog.svg": "/../media/bulldog.2fa114cb4389af616eaaa9ca8d122e65.svg",
     "../media/lang.svg": "/../media/lang.48412d984f013e5dff96c293a9f95245.svg",
     "static/media/vk.svg": "/static/media/vk.df30d4092bffac6fc283.svg",
     "static/media/insta.svg": "/static/media/insta.2932db7e963d62c9e701.svg",
@@ -29,11 +29,11 @@
     "../media/menu.svg": "/../media/menu.21c09d8043772c882446eb458fbd4347.svg",
     "index.html": "/index.html",
     "../media/star.svg": "/../media/star.a8663f2d6ceb800cdf937469cc7e1250.svg",
-    "main.42425b7f.css.map": "/static/css/main.42425b7f.css.map",
-    "main.354a9ad8.js.map": "/static/js/main.354a9ad8.js.map"
+    "main.f6f84fb9.css.map": "/static/css/main.f6f84fb9.css.map",
+    "main.3a2b5286.js.map": "/static/js/main.3a2b5286.js.map"
   },
   "entrypoints": [
-    "static/css/main.42425b7f.css",
-    "static/js/main.354a9ad8.js"
+    "static/css/main.f6f84fb9.css",
+    "static/js/main.3a2b5286.js"
   ]
 }
