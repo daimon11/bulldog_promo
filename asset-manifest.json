@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f6f84fb9.css",
-    "main.js": "/static/js/main.3a2b5286.js",
+    "main.css": "/static/css/main.79b69bb8.css",
+    "main.js": "/static/js/main.f8b1c1fd.js",
     "static/media/bulldogpub_murmansk.mp4": "/static/media/bulldogpub_murmansk.5256640546bdedfb603f.mp4",
     "static/media/about_5.jpg": "/static/media/about_5.77f2c95ac7d395cd183a.jpg",
     "static/media/about_3.jpg": "/static/media/about_3.134d7f87d375429fdbcd.jpg",
@@ -29,11 +29,11 @@
     "../media/menu.svg": "/../media/menu.21c09d8043772c882446eb458fbd4347.svg",
     "index.html": "/index.html",
     "../media/star.svg": "/../media/star.a8663f2d6ceb800cdf937469cc7e1250.svg",
-    "main.f6f84fb9.css.map": "/static/css/main.f6f84fb9.css.map",
-    "main.3a2b5286.js.map": "/static/js/main.3a2b5286.js.map"
+    "main.79b69bb8.css.map": "/static/css/main.79b69bb8.css.map",
+    "main.f8b1c1fd.js.map": "/static/js/main.f8b1c1fd.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6f84fb9.css",
-    "static/js/main.3a2b5286.js"
+    "static/css/main.79b69bb8.css",
+    "static/js/main.f8b1c1fd.js"
   ]
 }
