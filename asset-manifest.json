@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.24ea81e0.css",
-    "main.js": "/static/js/main.1ea58ed7.js",
+    "main.css": "/static/css/main.9bd4beb3.css",
+    "main.js": "/static/js/main.f65ea302.js",
     "static/media/bulldogpub_murmansk.mp4": "/static/media/bulldogpub_murmansk.bf8a2f179c767fe76487.mp4",
     "static/media/footer_bg.jpg": "/static/media/footer_bg.9bba9af1a193eed0dc71.jpg",
     "static/media/bulldogpub_murmansk_1000.webm": "/static/media/bulldogpub_murmansk_1000.57afac6db659926c7346.webm",
@@ -73,17 +73,17 @@
     "static/media/vk.svg": "/static/media/vk.df30d4092bffac6fc283.svg",
     "static/media/insta.svg": "/static/media/insta.2932db7e963d62c9e701.svg",
     "static/media/phone.svg": "/static/media/phone.7e6681cdd57559e7175d.svg",
-    "index.html": "/index.html",
     "static/media/mail.svg": "/static/media/mail.e234336138a77fc1360b.svg",
     "static/media/location.svg": "/static/media/location.700a7a756282691ec920.svg",
+    "index.html": "/index.html",
     "static/media/telegram.svg": "/static/media/telegram.3377df91c8a892021f5b.svg",
     "../media/menu.svg": "/../media/menu.21c09d8043772c882446eb458fbd4347.svg",
     "../media/star.svg": "/../media/star.a8663f2d6ceb800cdf937469cc7e1250.svg",
-    "main.24ea81e0.css.map": "/static/css/main.24ea81e0.css.map",
-    "main.1ea58ed7.js.map": "/static/js/main.1ea58ed7.js.map"
+    "main.9bd4beb3.css.map": "/static/css/main.9bd4beb3.css.map",
+    "main.f65ea302.js.map": "/static/js/main.f65ea302.js.map"
   },
   "entrypoints": [
-    "static/css/main.24ea81e0.css",
-    "static/js/main.1ea58ed7.js"
+    "static/css/main.9bd4beb3.css",
+    "static/js/main.f65ea302.js"
   ]
 }
